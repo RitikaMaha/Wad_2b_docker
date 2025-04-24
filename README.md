@@ -29,7 +29,7 @@ This assignment demonstrates how to:
 ---
 
 ## Command to Build app
-**Dockerdocker build -t my-docker-app**
+**docker build -t my-docker-app**
 
 ## Command to see image
 **docker images**
